@@ -1,0 +1,224 @@
+{
+    "carData": [
+        {
+            "id": 1,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/df6c918505d649c8331eddedc82518d455e8fc71.png?1663876406",
+            "name": "Maruti Swift",
+            "price": "2580",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "60 kms"
+        },
+        {
+            "id": 2,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5619953b14d056e72ceceed56cbfc2e9f4f80579.png?1663874416",
+            "name": "Maruti Celerio AT",
+            "price": "2502",
+            "trans": "Automatic",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "50 kms"
+        },
+        {
+            "id": 3,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/2dc0474b442a8e5a3c2440c19d63549938cd1283.png?1663873864",
+            "name": "Maruti Ertiga",
+            "price": "3945",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "7",
+            "Mileage": "66 kms"
+        },
+        {
+            "id": 4,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/58357adbcf8c71bfa462bd02c3e2678cd0c722e7.png?1663874336",
+            "name": "Renault Triber",
+            "price": "2921",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "7",
+            "Mileage": "40 kms"
+        },
+        {
+            "id": 5,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/84669243b5b9b47e7a5956951bb84a9237622ee2.png?1663876843",
+            "name": "Maruti Brezza",
+            "price": "2921",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "24 kms"
+        },
+        {
+            "id": 6,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/84669243b5b9b47e7a5956951bb84a9237622ee2.png?1663876843",
+            "name": "Honda City",
+            "price": "3341",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "30 kms"
+        },
+        {
+            "id": 7,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/bf87fc5666104402c03090d7c1a035a5bc21a065.png?1663872840",
+            "name": "Maruti Alto",
+            "price": "2049",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "35 kms"
+        },
+        {
+            "id": 8,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+            "name": "Datsun Redi-Go",
+            "price": "2277",
+            "trans": "Automatic",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "40 kms"
+        },
+        {
+            "id": 9,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "name": "Tata Nexon",
+            "price": "3896",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "35 kms"
+        },
+        {
+            "id": 10,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "name": "Mahindra XUV300",
+            "price": "3561",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "44 kms"
+        },
+        {
+            "id": 11,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/01487574d7b147f64dd47ab3e4dc1d32407ec724.png?1663874426",
+            "name": "BMW X1",
+            "price": "6000",
+            "trans": "Automatic",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "38 kms"
+        },
+        {
+            "id": 12,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "name": "KIA Seltos",
+            "price": "4529",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "60 kms"
+        },
+        {
+            "id": 13,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "name": "Maruti Swift",
+            "price": "6729",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "7",
+            "Mileage": "22 kms"
+        },
+        {
+            "id": 14,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "name": "Wagnar S50",
+            "price": "3456",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "20 kms"
+        },
+        {
+            "id": 15,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/289ac94026c19af09c0dd6de322896ebd2a9b227.png?1663874188",
+            "name": "Maruti Celero",
+            "price": "7890",
+            "trans": "Automatic",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "17 kms"
+        },
+        {
+            "id": 16,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/77cee0728de888bf87982d554722ba84fb1e0391.png?1663873837",
+            "name": "Mahindra KUV 100",
+            "price": "4329",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "4",
+            "Mileage": "36 kms"
+        },
+        {
+            "id": 17,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/2733bd472b2c1cf2964cb9612854abbea8a9aeaa.png?1663874676",
+            "name": "Suzuki Baleno",
+            "price": "4529",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "60 kms"
+        },
+        {
+            "id": 18,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+            "name": "Hyundai I20",
+            "price": "4500",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "7",
+            "Mileage": "50 kms"
+        },
+        {
+            "id": 19,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/f1850c781ba0aeae715eaa922dc15b4dc3654a09.png?1663874619",
+            "name": "Toyota Glanza",
+            "price": "3429",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "48 kms"
+        },
+        {
+            "id": 20,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/a21d2ba781794d6c3f3e310c6a70b3d7c39cac89.png?1663876143",
+            "name": "Honda Amaze 1.2V",
+            "price": "5469",
+            "trans": "Manual",
+            "fuel": "Petrol",
+            "seat": "5",
+            "Mileage": "32 kms"
+        },
+        {
+            "id": 21,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
+            "name": "Tata Tiago",
+            "price": "6453",
+            "trans": "Automatic",
+            "fuel": "Diesel",
+            "seat": "7",
+            "Mileage": "27 kms"
+        },
+        {
+            "id": 22,
+            "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/5d9078c7423169ed133f300b0d759b20ee488ab6.png?1663875987",
+            "name": "Renault Kwid",
+            "price": "5549",
+            "trans": "Manual",
+            "fuel": "Diesel",
+            "seat": "5",
+            "Mileage": "31 kms"
+        }
+    ]
+}
