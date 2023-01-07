@@ -8,7 +8,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "60 kms"
+            "Mileage": 60,
+            "rating" : 4.34
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "trans": "Automatic",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "50 kms"
+            "Mileage": 50,
+            "rating" : 4.04
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "7",
-            "Mileage": "66 kms"
+            "Mileage": 66,
+            "rating": 4.77
         },
         {
             "id": 4,
@@ -38,7 +41,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "7",
-            "Mileage": "40 kms"
+            "Mileage": 40,
+            "rating": 5.00
         },
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "24 kms"
+            "Mileage": 24,
+            "rating": 5.00
         },
         {
             "id": 6,
@@ -58,7 +63,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "30 kms"
+            "Mileage": 30,
+            "rating": 4.00
         },
         {
             "id": 7,
@@ -66,9 +72,10 @@
             "name": "Maruti Alto",
             "price": "2049",
             "trans": "Manual",
-            "fuel": "Petrol",
-            "seat": "5",
-            "Mileage": "35 kms"
+            "fuel": "Diesel",
+            "seat": "7",
+            "Mileage": 34,
+            "rating": 4.82
         },
         {
             "id": 8,
@@ -76,9 +83,10 @@
             "name": "Datsun Redi-Go",
             "price": "2277",
             "trans": "Automatic",
-            "fuel": "Petrol",
+            "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "40 kms"
+            "Mileage": 40,
+            "rating": 4.55
         },
         {
             "id": 9,
@@ -87,8 +95,9 @@
             "price": "3896",
             "trans": "Manual",
             "fuel": "Petrol",
-            "seat": "5",
-            "Mileage": "35 kms"
+            "seat": "4",
+            "Mileage": 35,
+            "rating": 5.00
         },
         {
             "id": 10,
@@ -98,7 +107,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "44 kms"
+            "Mileage": 44,
+            "rating": 4.97
         },
         {
             "id": 11,
@@ -108,7 +118,8 @@
             "trans": "Automatic",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "38 kms"
+            "Mileage": 38,
+            "rating": 5.00
         },
         {
             "id": 12,
@@ -118,7 +129,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "60 kms"
+            "Mileage": 60,
+            "rating": 4.65
         },
         {
             "id": 13,
@@ -128,7 +140,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "7",
-            "Mileage": "22 kms"
+            "Mileage": 22,
+            "rating": 4.79
         },
         {
             "id": 14,
@@ -138,7 +151,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "20 kms"
+            "Mileage": 20,
+            "rating": 4.89
         },
         {
             "id": 15,
@@ -148,7 +162,8 @@
             "trans": "Automatic",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "17 kms"
+            "Mileage": 21,
+            "rating": 5.00
         },
         {
             "id": 16,
@@ -158,7 +173,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "4",
-            "Mileage": "36 kms"
+            "Mileage": 36,
+            "rating": 4.79
         },
         {
             "id": 17,
@@ -168,7 +184,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "60 kms"
+            "Mileage": 60,
+            "rating": 4.59
         },
         {
             "id": 18,
@@ -178,7 +195,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "7",
-            "Mileage": "50 kms"
+            "Mileage": 50,
+            "rating": 5.00
         },
         {
             "id": 19,
@@ -188,7 +206,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "48 kms"
+            "Mileage": 48,
+            "rating": 4.06
         },
         {
             "id": 20,
@@ -198,8 +217,8 @@
             "trans": "Manual",
             "fuel": "Petrol",
             "seat": "5",
-            "Mileage": "32 kms"
-        },
+            "Mileage": 32,
+            "rating": 5.00        },
         {
             "id": 21,
             "image_url": "https://zoomcar-assets.zoomcar.com/photographs/original/7f4a674aa51af027c8f0017fe823fb34e5d90a05.png?1663873067",
@@ -208,7 +227,8 @@
             "trans": "Automatic",
             "fuel": "Diesel",
             "seat": "7",
-            "Mileage": "27 kms"
+            "Mileage": 27,
+            "rating": 4.88
         },
         {
             "id": 22,
@@ -218,7 +238,8 @@
             "trans": "Manual",
             "fuel": "Diesel",
             "seat": "5",
-            "Mileage": "31 kms"
+            "Mileage": 31,
+            "rating": 5.00
         }
     ]
 }
